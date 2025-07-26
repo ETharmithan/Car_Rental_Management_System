@@ -1,3 +1,6 @@
+using Car_Rental_Management_System.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace Car_Rental_Management_System
 {
     public class Program
@@ -8,6 +11,10 @@ namespace Car_Rental_Management_System
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddDbContext<dataDbContext>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("CarRentalManagementSystem")));
+
 
             var app = builder.Build();
 
