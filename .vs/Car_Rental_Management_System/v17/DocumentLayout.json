@@ -1,12 +1,137 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Z:\\ASP.NET Project\\Car_Rental_Mangement_System\\Car_Rental_Management_System\\",
-  "Documents": [],
+  "WorkspaceRootPath": "Z:\\Car Rental Sys\\Car_Rental_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39F0CD15-39D8-4340-9A10-6593044CFBD2}|Car_Rental_Management_System\\Car_Rental_Management_System.csproj|z:\\car rental sys\\car_rental_management_system\\car_rental_management_system\\car_rental_management_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39F0CD15-39D8-4340-9A10-6593044CFBD2}|Car_Rental_Management_System\\Car_Rental_Management_System.csproj|solutionrelative:car_rental_management_system\\car_rental_management_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F0CD15-39D8-4340-9A10-6593044CFBD2}|Car_Rental_Management_System\\Car_Rental_Management_System.csproj|z:\\car rental sys\\car_rental_management_system\\car_rental_management_system\\views\\guest\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39F0CD15-39D8-4340-9A10-6593044CFBD2}|Car_Rental_Management_System\\Car_Rental_Management_System.csproj|solutionrelative:car_rental_management_system\\views\\guest\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F0CD15-39D8-4340-9A10-6593044CFBD2}|Car_Rental_Management_System\\Car_Rental_Management_System.csproj|z:\\car rental sys\\car_rental_management_system\\car_rental_management_system\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F0CD15-39D8-4340-9A10-6593044CFBD2}|Car_Rental_Management_System\\Car_Rental_Management_System.csproj|solutionrelative:car_rental_management_system\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F0CD15-39D8-4340-9A10-6593044CFBD2}|Car_Rental_Management_System\\Car_Rental_Management_System.csproj|z:\\car rental sys\\car_rental_management_system\\car_rental_management_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39F0CD15-39D8-4340-9A10-6593044CFBD2}|Car_Rental_Management_System\\Car_Rental_Management_System.csproj|solutionrelative:car_rental_management_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F0CD15-39D8-4340-9A10-6593044CFBD2}|Car_Rental_Management_System\\Car_Rental_Management_System.csproj|z:\\car rental sys\\car_rental_management_system\\car_rental_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F0CD15-39D8-4340-9A10-6593044CFBD2}|Car_Rental_Management_System\\Car_Rental_Management_System.csproj|solutionrelative:car_rental_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F0CD15-39D8-4340-9A10-6593044CFBD2}|Car_Rental_Management_System\\Car_Rental_Management_System.csproj|z:\\car rental sys\\car_rental_management_system\\car_rental_management_system\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F0CD15-39D8-4340-9A10-6593044CFBD2}|Car_Rental_Management_System\\Car_Rental_Management_System.csproj|solutionrelative:car_rental_management_system\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F0CD15-39D8-4340-9A10-6593044CFBD2}|Car_Rental_Management_System\\Car_Rental_Management_System.csproj|z:\\car rental sys\\car_rental_management_system\\car_rental_management_system\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39F0CD15-39D8-4340-9A10-6593044CFBD2}|Car_Rental_Management_System\\Car_Rental_Management_System.csproj|solutionrelative:car_rental_management_system\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "Z:\\Car Rental Sys\\Car_Rental_Management_System\\Car_Rental_Management_System\\Views\\Guest\\View.cshtml",
+              "RelativeDocumentMoniker": "Car_Rental_Management_System\\Views\\Guest\\View.cshtml",
+              "ToolTip": "Z:\\Car Rental Sys\\Car_Rental_Management_System\\Car_Rental_Management_System\\Views\\Guest\\View.cshtml",
+              "RelativeToolTip": "Car_Rental_Management_System\\Views\\Guest\\View.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T08:10:11.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuestController.cs",
+              "DocumentMoniker": "Z:\\Car Rental Sys\\Car_Rental_Management_System\\Car_Rental_Management_System\\Controllers\\GuestController.cs",
+              "RelativeDocumentMoniker": "Car_Rental_Management_System\\Controllers\\GuestController.cs",
+              "ToolTip": "Z:\\Car Rental Sys\\Car_Rental_Management_System\\Car_Rental_Management_System\\Controllers\\GuestController.cs",
+              "RelativeToolTip": "Car_Rental_Management_System\\Controllers\\GuestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:07:46.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car_Rental_Management_System.csproj",
+              "DocumentMoniker": "Z:\\Car Rental Sys\\Car_Rental_Management_System\\Car_Rental_Management_System\\Car_Rental_Management_System.csproj",
+              "RelativeDocumentMoniker": "Car_Rental_Management_System\\Car_Rental_Management_System.csproj",
+              "ToolTip": "Z:\\Car Rental Sys\\Car_Rental_Management_System\\Car_Rental_Management_System\\Car_Rental_Management_System.csproj",
+              "RelativeToolTip": "Car_Rental_Management_System\\Car_Rental_Management_System.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-26T07:45:21.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Z:\\Car Rental Sys\\Car_Rental_Management_System\\Car_Rental_Management_System\\appsettings.json",
+              "RelativeDocumentMoniker": "Car_Rental_Management_System\\appsettings.json",
+              "ToolTip": "Z:\\Car Rental Sys\\Car_Rental_Management_System\\Car_Rental_Management_System\\appsettings.json",
+              "RelativeToolTip": "Car_Rental_Management_System\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-26T07:53:42.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Car Rental Sys\\Car_Rental_Management_System\\Car_Rental_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "Car_Rental_Management_System\\Program.cs",
+              "ToolTip": "Z:\\Car Rental Sys\\Car_Rental_Management_System\\Car_Rental_Management_System\\Program.cs",
+              "RelativeToolTip": "Car_Rental_Management_System\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:57:40.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "Z:\\Car Rental Sys\\Car_Rental_Management_System\\Car_Rental_Management_System\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Car_Rental_Management_System\\appsettings.Development.json",
+              "ToolTip": "Z:\\Car Rental Sys\\Car_Rental_Management_System\\Car_Rental_Management_System\\appsettings.Development.json",
+              "RelativeToolTip": "Car_Rental_Management_System\\appsettings.Development.json",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-26T07:53:42.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dataDbContext.cs",
+              "DocumentMoniker": "Z:\\Car Rental Sys\\Car_Rental_Management_System\\Car_Rental_Management_System\\Data\\dataDbContext.cs",
+              "RelativeDocumentMoniker": "Car_Rental_Management_System\\Data\\dataDbContext.cs",
+              "ToolTip": "Z:\\Car Rental Sys\\Car_Rental_Management_System\\Car_Rental_Management_System\\Data\\dataDbContext.cs",
+              "RelativeToolTip": "Car_Rental_Management_System\\Data\\dataDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:46:09.827Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
